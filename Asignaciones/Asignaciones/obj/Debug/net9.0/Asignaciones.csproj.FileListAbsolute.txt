@@ -1,0 +1,14 @@
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/bin/Debug/net9.0/Asignaciones
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/bin/Debug/net9.0/Asignaciones.deps.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/bin/Debug/net9.0/Asignaciones.runtimeconfig.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/bin/Debug/net9.0/Asignaciones.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/bin/Debug/net9.0/Asignaciones.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.AssemblyInfoInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.AssemblyInfo.cs
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.csproj.CoreCompileInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/refint/Asignaciones.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/Asignaciones.genruntimeconfig.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/Asignaciones/Asignaciones/obj/Debug/net9.0/ref/Asignaciones.dll
